@@ -1,6 +1,6 @@
 services:
   trend-radar:
-    image: wantcat/trendradar:latest
+    image:  swr.cn-north-4.myhuaweicloud.com/ddn-k8s/docker.io/wantcat/trendradar:latest
     container_name: trend-radar
     restart: unless-stopped
 
