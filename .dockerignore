@@ -33,3 +33,7 @@ _image/
 .env.*.local
 version
 index.html
+
+.env
+.env.*
+!.env.example
